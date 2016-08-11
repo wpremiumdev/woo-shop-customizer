@@ -1,0 +1,472 @@
+# Copyright (C) 2015 Woo Shop Customizer
+# This file is distributed under the same license as the Woo Shop Customizer package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Shop Customizer 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-shop-"
+"customizer\n"
+"POT-Creation-Date: 2015-08-21 08:23:38+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-woocommerce-shop-customizer-admin.php:103
+msgid "WooCommerce Shop Customizer Options"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:123
+msgid "Select number of product display in one row"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:156
+msgid "Show the product description underneath an image"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:159
+#: admin/class-woocommerce-shop-customizer-admin.php:460
+#: admin/class-woocommerce-shop-customizer-admin.php:600
+#: admin/class-woocommerce-shop-customizer-admin.php:628
+#: admin/class-woocommerce-shop-customizer-admin.php:656
+#: admin/class-woocommerce-shop-customizer-admin.php:684
+#: admin/class-woocommerce-shop-customizer-admin.php:940
+msgid "Yes"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:160
+#: admin/class-woocommerce-shop-customizer-admin.php:461
+#: admin/class-woocommerce-shop-customizer-admin.php:601
+#: admin/class-woocommerce-shop-customizer-admin.php:629
+#: admin/class-woocommerce-shop-customizer-admin.php:657
+#: admin/class-woocommerce-shop-customizer-admin.php:685
+#: admin/class-woocommerce-shop-customizer-admin.php:941
+msgid "No"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:165
+#: admin/class-woocommerce-shop-customizer-admin.php:206
+#: admin/class-woocommerce-shop-customizer-admin.php:238
+#: admin/class-woocommerce-shop-customizer-admin.php:330
+#: admin/class-woocommerce-shop-customizer-admin.php:383
+#: admin/class-woocommerce-shop-customizer-admin.php:440
+#: admin/class-woocommerce-shop-customizer-admin.php:482
+#: admin/class-woocommerce-shop-customizer-admin.php:514
+#: admin/class-woocommerce-shop-customizer-admin.php:562
+#: admin/class-woocommerce-shop-customizer-admin.php:606
+#: admin/class-woocommerce-shop-customizer-admin.php:634
+#: admin/class-woocommerce-shop-customizer-admin.php:662
+#: admin/class-woocommerce-shop-customizer-admin.php:690
+#: admin/class-woocommerce-shop-customizer-admin.php:727
+#: admin/class-woocommerce-shop-customizer-admin.php:754
+#: admin/class-woocommerce-shop-customizer-admin.php:803
+#: admin/class-woocommerce-shop-customizer-admin.php:837
+#: admin/class-woocommerce-shop-customizer-admin.php:878
+#: admin/class-woocommerce-shop-customizer-admin.php:918
+#: admin/class-woocommerce-shop-customizer-admin.php:946
+#: admin/class-woocommerce-shop-customizer-admin.php:982
+#: admin/class-woocommerce-shop-customizer-admin.php:1055
+#: admin/class-woocommerce-shop-customizer-admin.php:1142
+#: admin/class-woocommerce-shop-customizer-admin.php:1186
+msgid "Save Changes"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:175
+msgid "Automatically add product in visit site"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:185
+msgid "Select product name"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:201
+msgid "No products found"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:213
+msgid "Remove specific or All of the product tabs in single page view"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:228
+msgid "Remove specific tab"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:231
+msgid "Description"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:232
+msgid "Reviews"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:233
+msgid "Additional information"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:244
+msgid "Single product tab settings"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:261
+msgid "Select reviews tab priority"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:273
+msgid "Select discription tab priority"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:285
+msgid "Rename review tab"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:293
+msgid "Rename discription tab"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:301
+msgid "Add custom title"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:309
+msgid "Add custom description"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:317
+#: admin/class-woocommerce-shop-customizer-admin.php:1013
+msgid "Add to Cart Button Text"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:322
+msgid "All Product Types"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:341
+msgid "Remove product content based on the category"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:348
+#: admin/class-woocommerce-shop-customizer-admin.php:402
+msgid "Select category"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:395
+msgid "Don't Display products from a particular category on the shop page"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:447
+msgid "Add a checkbox field to checkout with a simple snippet"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:457
+msgid "Display terms & conditions"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:466
+msgid "Checkbox tital"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:474
+msgid "Checkbox text"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:488
+msgid "Want to alter the default state and country at the checkout"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:498
+msgid "Enter your defualt country code"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:506
+msgid "Enter your defualt state code"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:520
+msgid "Register or Login on your site by adding a message"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:530
+msgid "Message 1"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:538
+msgid "Message 2"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:546
+msgid "Message 3"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:554
+msgid "Message 4"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:568
+msgid "Breadcrumbs setting in home"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:581
+msgid "Change breadcrumbs in home"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:589
+msgid "Change breadcrumbs in home url"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:597
+msgid "Get rid of all the breadcrumbs"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:612
+#: admin/class-woocommerce-shop-customizer-admin.php:625
+msgid "Replace the old page navigation with fancier pagination links"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:640
+#: admin/class-woocommerce-shop-customizer-admin.php:653
+msgid "Display category image on category archive"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:668
+#: admin/class-woocommerce-shop-customizer-admin.php:681
+msgid "Hide all other shipping methods when free shipping is available"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:696
+msgid ""
+"This trick will allow you to order by price, date or title on your shop page"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:709
+msgid "Select order by"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:733
+#: admin/class-woocommerce-shop-customizer-admin.php:746
+msgid "Edit the ‘out of stock’ with any text you prefer"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:760
+msgid ""
+"Change the look of your product gallery by customising the number of "
+"thumbnails per row"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:775
+msgid "One"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:782
+msgid "Two"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:789
+msgid "Three"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:796
+msgid "Four"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:809
+msgid "Customise a URL to direct customers to from ‘add to cart’"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:819
+msgid ""
+"Notice : If you wont to Redirect to the cart page after successful addition "
+"Disable the  Enable AJAX add to cart buttons on archives checkbox in "
+"Woocommerce->Settings->Products->Display"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:823
+msgid "Choose page to redirect"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:843
+msgid "Customise the serach result"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:853
+msgid "Customise search results"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:861
+msgid "Products"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:867
+msgid "Posts (blog articles)"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:873
+msgid "Static pages"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:884
+msgid "Want to customise the currency or symbol"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:894
+msgid "Currency name"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:897
+msgid "Rupee"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:902
+msgid "Currency code"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:905
+msgid "INR"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:910
+msgid "Currency symbol"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:913
+msgid "Rs"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:924
+msgid "Get rid of, or simply unhook eooCommerce emails"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:937
+msgid "Unhook emails"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:952
+msgid ""
+"How to add any custom field to your order emails by hooking in and "
+"specifying the name of the custom field"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:968
+msgid "Order email custome field label"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:975
+msgid "Order email custome field value"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:988
+msgid "Customize Shop loop "
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1016
+msgid "Simple Product"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1022
+msgid "Variable Product"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1028
+msgid "Grouped Product"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1033
+msgid "External Product"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1039
+msgid "Out of Stock Product"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1045
+msgid "Layout"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1048
+msgid "Product columns displayed per page"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1061
+msgid "Customize checkout page"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1084
+msgid "Messages"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1088
+msgid "Display coupon"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1104
+msgid "Must be logged in text"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1110
+msgid "Coupon text"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1116
+msgid "Login text"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1122
+msgid "Misc"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1125
+msgid "Create Account checkbox default"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1135
+msgid "Submit Order button"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1148
+msgid "Customize tax or vat lable "
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1167
+msgid "Tax Label"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1173
+msgid "Including Tax Label"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1179
+msgid "Excluding Tax Label"
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1385
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1465
+msgid "Please agree to my checkbox."
+msgstr ""
+
+#: admin/class-woocommerce-shop-customizer-admin.php:1571
+msgid "Returning customers login. New users register for next time so you can:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Woo Shop Customizer"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Woo Shop Customizer 1.0.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Woo Shop Customizer 1.0.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://www.premiumdev.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin allow user to Customize WooCommerce Shop"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "mbj-webdevelopment <mbjwebdevelopment@gmail.com>"
+msgstr ""
