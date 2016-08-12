@@ -22,3 +22,9 @@ Easy steps to install the plugin:
 
 *	Upload woo-shop-customizer folder/directory to the /wp-content/plugins/ directory
 *	Activate the plugin through the 'Plugins' menu in WordPress.
+
+### Documentation
+
+*	<a href="https://www.premiumdev.com/product/woo-shop-customizer/" target="_blank">Docs</a>
+*	<a href="http://wordpress.org/support/plugin/woo-shop-customizer" target="_blank">Support</a>
+*	<a href="http://wordpress.org/support/view/plugin-reviews/woo-shop-customizer" target="_blank">Write a Review</a>
